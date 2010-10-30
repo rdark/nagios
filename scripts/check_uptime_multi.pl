@@ -2,9 +2,9 @@
 #################################
 # Version 	1.1
 # Date	02:22 PM 2008/10/23
+# Author	Paul Slabbert
 # Updated 26/10/2010 by rclark
 # added maximum uptime support
-# Author	Paul Slabbert
 #################################
 
 use strict;

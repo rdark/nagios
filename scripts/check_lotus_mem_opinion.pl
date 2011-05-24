@@ -51,7 +51,7 @@ $o_login = undef;
 $o_passwd = undef;
 $ok_state = "Plentiful";
 $warn_state = "Normal";
-$crit_state = "Painfull";
+$crit_state = "Painful";
  
 Getopt::Long::Configure('bundling');
 GetOptions(
